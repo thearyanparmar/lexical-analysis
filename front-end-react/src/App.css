@@ -1,0 +1,15 @@
+.code-box{
+  background-color: #f44336;
+}
+.root{
+  background-color: #f44336;
+}
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.full-width-btn {
+  flex-basis: 100%;
+} 
